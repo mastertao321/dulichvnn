@@ -244,7 +244,7 @@ html{
 
 /* Tour */
 #content .tour-section{
-     background: linear-gradient(0, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('/assets/img/Tour/background.jpg') center / cover no-repeat ;
+     background: linear-gradient(0, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('/Học làm web\W3_band/assets/img/Tour/background.jpg') center / cover no-repeat ;
     
     }
 #content .tick-month{
